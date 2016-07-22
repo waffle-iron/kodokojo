@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kodokojo/kodokojo.png?label=ready&title=Ready)](https://waffle.io/kodokojo/kodokojo)
 ![Kodo Kojo Logo](doc/images/logo-kodokojo-baseline-black1.png)
 
 Kodo Kojo allows you to get a full out-of-the-box software factory.
